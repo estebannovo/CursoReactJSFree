@@ -1,4 +1,4 @@
-# CursoReactJSFree
+# Curso React.js en 30 minutos
 Impartido por: https://redradix.com/
 
 Descripción del curso
